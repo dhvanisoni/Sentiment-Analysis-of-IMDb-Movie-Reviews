@@ -4,11 +4,11 @@ Sentiment Analysis is an NLP application that identifies a text corpus’s emoti
 “I enjoyed the movie!” – Positive
 “It was the most terrible movie I have ever seen.” – Negative
 
-The IMDb moview reviews dataset sourced from Kaggle, comprises 50,000 records, half of which are positive and the other half negative. each consisting of two essential columns:  
+[The IMDb moview reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) dataset sourced from Kaggle, comprises 50,000 records, half of which are positive and the other half negative. each consisting of two essential columns:  
 - Review: Textual content of individual reviews.
 - Sentiment: Label of each review, categorized as either "positive" or "negative.“
 
-### Steps Followed: 
+###🚀 Steps Followed: 
 
 1. Getting and Loading the Dataset
 2. Text Processing
@@ -21,7 +21,7 @@ The IMDb moview reviews dataset sourced from Kaggle, comprises 50,000 records, h
 ### Model Architectures
 We thoroughly investigated RNN, LSTM, CNN+LSTM, and a novel hybrid framework combining CNN and Bidirectional LSTM. A comparative analysis was conducted to gauge the efficacy of each model architecture.
 
-🔍 Results and Findings:
+### 🔍 Results and Findings:
 
 Hybrid Convolutional-BiLSTM model showcased the highest accuracy at 89%.
 LSTM model achieved an accuracy of 86%.
