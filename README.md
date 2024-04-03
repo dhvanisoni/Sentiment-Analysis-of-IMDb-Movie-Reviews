@@ -4,4 +4,17 @@ Sentiment Analysis is an NLP application that identifies a text corpus’s emoti
 “I enjoyed the movie!” – Positive
 “It was the most terrible movie I have ever seen.” – Negative
 
-![image](https://github.com/dhvanisoni/IMDb-Movie-Reviews-Sentiment-Analysis-/assets/92076792/192c1a57-f50b-4275-8ef7-75004e748634)
+The IMDb moview reviews dataset sourced from Kaggle, comprises 50,000 records, half of which are positive and the other half negative. each consisting of two essential columns:  
+- Review: Textual content of individual reviews.
+- Sentiment: Label of each review, categorized as either "positive" or "negative.“
+
+### Steps Followed: 
+
+1. Getting and Loading the Dataset
+2. Text Processing
+3. Model Building
+4. Hyperparameter Tunining
+5. Model Evaluation and Comparision
+6. Model Improvment
+
+
