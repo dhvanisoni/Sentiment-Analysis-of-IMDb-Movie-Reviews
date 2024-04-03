@@ -18,3 +18,11 @@ The IMDb moview reviews dataset sourced from Kaggle, comprises 50,000 records, h
 6. Model Improvment
 
 
+### Model Architectures
+We thoroughly investigated RNN, LSTM, CNN+LSTM, and a novel hybrid framework combining CNN and Bidirectional LSTM. A comparative analysis was conducted to gauge the efficacy of each model architecture.
+
+🔍 Results and Findings:
+
+Hybrid Convolutional-BiLSTM model showcased the highest accuracy at 89%.
+LSTM model achieved an accuracy of 86%.
+CNN+LSTM model's performance underscored the importance of hyperparameter tuning and architectural design.
