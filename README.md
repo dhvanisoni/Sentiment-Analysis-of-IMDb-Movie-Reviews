@@ -1,21 +1,16 @@
 # Sentiment Analysis of IMDb Movie Reviews  
 
-Sentiment Analysis is an NLP application that identifies a text corpus’s emotional or sentimental tone or opinion. Usually, emotions or attitudes towards a topic can be positive, negative, or neutral. This makes sentiment analysis a text classification task. Examples of positive and negative expressions are:
-“I enjoyed the movie!” – Positive
-“It was the most terrible movie I have ever seen.” – Negative
+This project focuses on performing sentiment analysis on movie reviews to classify them as **positive**, **negative**, or **neutral**. The goal is to leverage machine learning and natural language processing (NLP) techniques to gain insights into customer sentiment based on their written reviews.
 
-The [IMDb moview reviews dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) sourced from Kaggle, comprises 50,000 records, half of which are positive and the other half negative. each consisting of two essential columns:  
-- Review: Textual content of individual reviews.
-- Sentiment: Label of each review, categorized as either "positive" or "negative.“
+The [dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) sourced from Kaggle, comprises 50,000 records, half of which are positive and the other half negative. each consisting of two essential columns:  
 
 ### 🚀 Steps Followed: 
 
-1. Getting and Loading the Dataset
-2. Text Processing
-3. Model Building
-4. Hyperparameter Tunining
-5. Model Evaluation and Comparision
-6. Model Improvment
+1. Text Processing
+2. Model Building
+3. Hyperparameter Tunining
+4. Model Evaluation and Comparision
+5. Model Improvment
 
 
 ### Model Architectures
